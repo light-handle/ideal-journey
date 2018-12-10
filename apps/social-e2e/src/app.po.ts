@@ -6,6 +6,6 @@ export class AppPage {
   }
 
   getParagraphText() {
-    return element(by.css('BusyDev-root h1')).getText();
+    return element(by.css('ideal-journey-root h1')).getText();
   }
 }

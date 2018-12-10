@@ -4,13 +4,13 @@
     "directive-selector": [
       true,
       "attribute",
-      "BusyDev",
+      "ideal-journey",
       "camelCase"
     ],
     "component-selector": [
       true,
       "element",
-      "BusyDev",
+      "ideal-journey",
       "kebab-case"
     ]
   }

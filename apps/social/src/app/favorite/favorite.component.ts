@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'BusyDev-favorite',
+  selector: 'ideal-journey-favorite',
   templateUrl: './favorite.component.html',
   styleUrls: ['./favorite.component.scss']
 })

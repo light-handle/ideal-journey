@@ -1,5 +1,5 @@
 {
-  "npmScope": "BusyDev",
+  "npmScope": "ideal-journey",
   "implicitDependencies": {
     "angular.json": "*",
     "package.json": "*",

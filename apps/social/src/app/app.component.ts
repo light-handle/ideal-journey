@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'BusyDev-root',
+  selector: 'ideal-journey-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
