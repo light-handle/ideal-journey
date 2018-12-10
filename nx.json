@@ -7,5 +7,12 @@
     "tslint.json": "*",
     "nx.json": "*"
   },
-  "projects": {}
+  "projects": {
+    "social": {
+      "tags": []
+    },
+    "social-e2e": {
+      "tags": []
+    }
+  }
 }
