@@ -27,6 +27,7 @@
               "apps/social/src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/scss/bootstrap.scss",
               "apps/social/src/styles.scss"
             ],
             "scripts": [

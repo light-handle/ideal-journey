@@ -4,6 +4,7 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import { NxModule } from '@nrwl/nx';
 import { RouterModule } from '@angular/router';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { FavoriteComponent } from './favorite/favorite.component';
 
 @NgModule({
@@ -11,7 +12,8 @@ import { FavoriteComponent } from './favorite/favorite.component';
   imports: [
     BrowserModule,
     NxModule.forRoot(),
-    RouterModule.forRoot([], { initialNavigation: 'enabled' })
+    RouterModule.forRoot([], { initialNavigation: 'enabled' }),
+    BrowserAnimationsModule
   ],
   providers: [],
   bootstrap: [AppComponent],
